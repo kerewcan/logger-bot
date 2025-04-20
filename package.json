@@ -1,0 +1,13 @@
+{
+  "name": "logger-bot",
+  "version": "1.0.0",
+  "description": "discord logging bot",
+  "main": "index.js",
+  "author": "kerew",
+  "license": "MIT",
+  "dependencies": {
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.11.0",
+    "flat": "^5.0.2"
+  }
+}
